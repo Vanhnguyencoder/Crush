@@ -1,0 +1,22 @@
+body {
+    background: #b8d8ba;
+    font-family: Arial;
+}
+
+.container {
+    width: 100%;
+    height: 400px;
+    background: #d9dbbc;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    
+    font-size: 60px;
+    color: white;
+    padding-top: 60px;
+    margin: 0;
+}
